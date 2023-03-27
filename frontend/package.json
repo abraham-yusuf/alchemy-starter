@@ -6,8 +6,7 @@
 		"dev": "next dev",
 		"build": "next build",
 		"start": "next start",
-		"lint": "next lint",
-		"marketplace": "npx create-web3-dapp marketplace"
+		"lint": "next lint"
 	},
 	"dependencies": {
 		"next": "13.1.2",
