@@ -4,7 +4,7 @@ export default function Navbar() {
 	return (
 		<nav className={styles.navbar}>
 			<a href="/">
-				<img className={styles.alchemy_logo} src="/logo.png"></img>
+				<img className={styles.web3_logo} src="/logo.png"></img>
 			</a>
 			<ConnectButton></ConnectButton>
 		</nav>
