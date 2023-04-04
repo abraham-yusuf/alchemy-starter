@@ -9,11 +9,11 @@
 		"lint": "next lint"
 	},
 	"dependencies": {
+		"@rainbow-me/rainbowkit": "^0.12.4",
+		"alchemy-sdk": "^2.6.2",
 		"next": "13.1.2",
 		"react": "18.2.0",
 		"react-dom": "18.2.0",
-		"alchemy-sdk": "^2.6.2",
-		"@rainbow-me/rainbowkit": "^0.12.4",
 		"wagmi": "^0.12.6"
 	},
 	"devDependencies": {

@@ -70,5 +70,6 @@ cache
 # Lock files
 package-lock.json
 yarn.lock
-
+# if using yarn v3
+.yarn
 templates/evm/core/pages/api
